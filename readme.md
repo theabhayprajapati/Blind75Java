@@ -7,7 +7,7 @@
 Welcome to Blind 75 Java! This project contains solutions to all problems from the popular coding challenge series, Blind 75, implemented in the Java programming language. These solutions are optimized for speed and efficiency, and have been thoroughly tested to ensure their correctness. Whether you're looking to improve your skills in Java or just want to tackle some challenging coding problems, this project is sure to have something for you.
 
 ### Solution Paths
-You can find the solution for each problem in the src directory, organized by problem number. Simply navigate to the desired problem and you will find the solution file(s) inside.
+You can find the solution for each problem in the src directory, organized by problem number. Simply navigate to the desired problem, and you will find the solution file(s) inside.
 
 ## Getting Started
 To get started with the project, simply clone the repository and open the project in your preferred Java development environment. From there, you can browse the solutions and run them to see the output.
